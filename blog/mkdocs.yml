@@ -1,7 +1,0 @@
-site_name: My Blog
-nav:
-  - Home: index.md
-  - Learn: learn.md
-  - About: about.md
-theme:
-  name: material
