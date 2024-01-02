@@ -3,4 +3,5 @@ nav:
   - Home: index.md
   - Learn: learn.md
   - About: about.md
-theme: readthedocs
+theme:
+  name: material
